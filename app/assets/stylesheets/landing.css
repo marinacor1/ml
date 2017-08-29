@@ -1,0 +1,46 @@
+.welcome-drop {
+    font-family: 'Dosis', sans-serif;
+}
+
+.landing-page {
+    font-family: 'Dosis', sans-serif;
+}
+
+a:hover {
+}
+a:visited {
+}
+a:link {
+  text-decoration: none;
+  font-family: 'Dosis', sans-serif;
+}
+
+.navbar-default {
+  background-color: #285a89 !important;
+  border-color: #285a89;
+}
+.map-link {
+  background-color: #285a89 !important;
+  color: white;
+  font-size: 150%;
+  display: block;
+  padding-left: 40px;
+  padding-top: 20px;
+  box-shadow: 2px 2px;
+}
+
+.landing-page {
+  background: url(https://hd.unsplash.com/photo-1444261022401-3e55387f54f9) no-repeat center;
+}
+
+.where {
+  display: block;
+  margin: auto;
+  color: black;
+  padding-top: 400px;
+  padding-left: 650px;
+}
+
+#myDropdown {
+  box-shadow: 2px 2px;
+}
