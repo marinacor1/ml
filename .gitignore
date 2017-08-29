@@ -13,3 +13,4 @@
 /tmp
 config.ru
 config/*
+.git
